@@ -33,7 +33,9 @@ Description
 
 Steps to reproduce this project
 -------------------------------
-
+> 1. Change to you working directory in the "run_analysis" file.
+> 2. Execute the script run_analysis.
 
 Outputs produces
 ----------------
+> 1. A new tidy data from the 'UCI HAR Dataset' data set.
